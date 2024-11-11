@@ -5,8 +5,7 @@
           aria-labelledby="offcanvasDarkLabel"
           style="background-color: darkslategrey; color: white; font-weight: 500; width: 20%; margin: 0.5%;">
           <div class="offcanvas-header">
-            <h2 class="offcanvas-title mb-4" id="offcanvasDarkLabel">ZippyPos</h2>
-            <br>
+            <h2 class="offcanvas-title mb-3" id="offcanvasDarkLabel">ZippyPos <img src="../../assets/img/ZIPPYw.png" style="width:20%;"> </h2>            <br>
           </div>
           <div class="offcanvas-body">
             <ul class="navbar-nav mb5">

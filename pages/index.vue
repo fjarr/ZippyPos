@@ -4,7 +4,7 @@
           <div class="offcanvas offcanvas-start show rounded-4" tabindex="-1" id="offcanvasDark"
               aria-labelledby="offcanvasDarkLabel">
               <div class="offcanvas-header">
-                  <h2 class="offcanvas-title mb-4" id="offcanvasDarkLabel">ZippyPos</h2>
+                  <h2 class="offcanvas-title mb-2" id="offcanvasDarkLabel">ZippyPos <img src="../assets/img/ZIPPYw.png" style="width:20%;"> </h2>
                   <br>
               </div>
               <div class="offcanvas-body">
